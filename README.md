@@ -1,0 +1,2 @@
+# BQ25792_BMS
+I2C library for BMS BQ25792
